@@ -1,0 +1,5 @@
+Credentials cache: API:4536
+        Principal: ressalhi@1337.MA
+
+  Issued                Expires               Principal
+Sep 20 11:11:00 2021  Sep 27 11:10:51 2021  krbtgt/1337.MA@1337.MA
